@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineelhajjami0&label=Profile%20views&color=0e75b6&style=flat" alt="yassineelhajjami0" /> </p>
 
+- My portfolio :  [https://github.com/YassineElHajjami0?tab=repositories](https://yassine-elhajjami.vercel.app/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/YassineElHajjami0?tab=repositories](https://github.com/YassineElHajjami0?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@yassineelhajjamidev](https://medium.com/@yassineelhajjamidev)
